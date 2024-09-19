@@ -85,9 +85,9 @@ autoclean = []
 confirmer = {}
 
 
-START_IMG_URL = ["https://files.catbox.moe/6sjdxa.jpg"]
-PING_IMG_URL = ["https://files.catbox.moe/6sjdxa.jpg"]
-STATS_IMG_URL = ["https://files.catbox.moe/6sjdxa.jpg"]
+START_IMG_URL = ["https://graph.org/file/2c30aed72f9553fcedbfa.jpg"]
+PING_IMG_URL = ["https://graph.org/file/2c30aed72f9553fcedbfa.jpg"]
+STATS_IMG_URL = ["https://graph.org/file/2c30aed72f9553fcedbfa.jpg"]
 PLAYLIST_IMG_URL = getenv(
     "PLAYLIST_IMG_URL", "https://graph.org/file/9d75bfb77e17b80b3da5b.png"
 )
